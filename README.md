@@ -58,16 +58,30 @@ ChatSmart AI is a revolutionary **Enterprise Document Intelligence Platform** th
 
 ---
 
-## 🎯 Demo
+## 🎯 Live Demo
 
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x400/667eea/ffffff?text=ChatSmart+AI+Main+Interface)
+### 🖥️ **Main Interface Features**
+```
+🧠 ChatSmart AI - Enterprise Document Intelligence Platform
+├── 📊 Real-time Analytics Sidebar
+├── 📂 Drag & Drop Upload Center  
+├── 💬 AI Chat Interface
+└── 🛠️ Advanced Feature Controls
+```
 
-### Analytics Dashboard
-![Analytics](https://via.placeholder.com/400x300/764ba2/ffffff?text=Real-Time+Analytics)
+### 📱 **User Experience Flow**
+```
+1. 📄 Upload PDF(s) → Real-time processing with progress bars
+2. 🔍 Ask Questions → AI responds with context from documents  
+3. 📊 View Analytics → Live metrics and performance charts
+4. 💾 Export Results → Download conversations and reports
+```
 
-### Chat Interface
-![Chat](https://via.placeholder.com/600x400/60a5fa/ffffff?text=AI+Conversation)
+### 🎨 **Visual Design**
+- **Glass Morphism UI** with purple gradient backgrounds
+- **Modern Cards** with hover animations and smooth transitions
+- **Interactive Charts** powered by Plotly for real-time data
+- **Responsive Design** that works on desktop, tablet, and mobile
 
 ---
 
