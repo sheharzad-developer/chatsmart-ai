@@ -252,10 +252,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Developer**: Your Name  
-**Email**: your.email@example.com  
-**LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-**Portfolio**: [Your Portfolio](https://yourportfolio.com)
+**Developer**: Sheharzad Salahuddin  
+**Email**: sheharzad.salahuddin9000@outlook.com  
+**LinkedIn**: [Sheharzad Salahuddin](https://www.linkedin.com/in/sheharzad-salahuddin-frontend-developer/)  
+**Portfolio**: [sheharzaddev-v2.vercel.app](https://sheharzaddev-v2.vercel.app/)
 
 ---
 
